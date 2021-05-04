@@ -36,15 +36,17 @@ h1 {
 }
 
 .button a {
-  background-color: #E29578 !important;
+  background-color: #E29578!important;
   color: #FFEce5 !important;
-  border-color: #32373B !important;
+  border-color: #32373B  !important;
+  border-radius: 10px;
 }
 
 .button a:hover {
-  background-color: #FFEce5 !important;
+  background-color: #FFEce5  !important;
   color:#E29578 !important;
   box-shadow: none !important;
+
 }
 
 aside{

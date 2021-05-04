@@ -36,7 +36,7 @@ body {
     background-color: #E29578!important;
     color: #FFEce5 !important;
     border-color: #32373B  !important;
-    
+    border-radius: 10px;
 }
 
 .home a:hover {

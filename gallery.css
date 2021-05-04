@@ -26,19 +26,19 @@ h1{
    padding-left: 10px;
 }
 
-.home a{
+.home a {
     background-color: #E29578!important;
     color: #FFEce5 !important;
     border-color: #32373B  !important;
+    border-radius: 10px;
 }
 
-.button a:hover {
+.home a:hover {
     background-color: #FFEce5  !important;
     color:#E29578 !important;
     box-shadow: none !important;
 
 }
-
 .nails {
     padding-top: 30px;
 }
